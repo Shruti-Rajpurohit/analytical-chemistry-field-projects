@@ -1,6 +1,6 @@
 # Gold Extraction, Purification and Spectral Analysis
 
-**Type:** Group Field 
+**Type:** Group Field Project
 **Year:** Third Year, BSc Chemistry (2023–2024)
 **Institution:** Vikram University, Ujjain
 **Laboratory:** Vikram University Chemistry Department and Masters Laboratory
